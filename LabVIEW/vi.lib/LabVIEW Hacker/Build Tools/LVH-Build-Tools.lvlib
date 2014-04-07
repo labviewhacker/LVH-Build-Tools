@@ -7,65 +7,65 @@
 </Property>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Configuration Windows" Type="Folder">
-			<Item Name="Sync Project Config.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Configuration Windows/Sync Project Config.vi"/>
+			<Item Name="Sync Project Config.vi" Type="VI" URL="../Private/Configuration Windows/Sync Project Config.vi"/>
 		</Item>
 		<Item Name="Local Toolbox" Type="Folder">
-			<Item Name="_Animation Config.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Animation Config.ctl"/>
-			<Item Name="_Animation FGV State.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Animation FGV State.ctl"/>
-			<Item Name="_Animation State.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Animation State.vi"/>
-			<Item Name="_Archive Directories.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Archive Directories.vi"/>
-			<Item Name="_Build Google Campaign URL.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Build Google Campaign URL.vi"/>
-			<Item Name="_Create Folder If DNE.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Create Folder If DNE.vi"/>
-			<Item Name="_Get AppData Path.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Get AppData Path.vi"/>
-			<Item Name="_Get Image Data.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Get Image Data.vi"/>
-			<Item Name="_Get LabVIEW Install Paths.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Get LabVIEW Install Paths.vi"/>
-			<Item Name="_Get Main Path.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Get Main Path.vi"/>
-			<Item Name="_Green Bars.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Green Bars.vi"/>
-			<Item Name="_Installed LabVIEW Version.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Installed LabVIEW Version.ctl"/>
-			<Item Name="_LabVIEW Version.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_LabVIEW Version.ctl"/>
-			<Item Name="_Load Animation.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Load Animation.vi"/>
-			<Item Name="_Set FP Origin.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Set FP Origin.vi"/>
-			<Item Name="_Start Animation.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Start Animation.vi"/>
-			<Item Name="_Stop Animation.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Stop Animation.vi"/>
-			<Item Name="_Strip Path To Exe.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Strip Path To Exe.vi"/>
-			<Item Name="_Trim Prefix.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Local Toolbox/_Trim Prefix.vi"/>
+			<Item Name="_Animation Config.ctl" Type="VI" URL="../Private/Local Toolbox/_Animation Config.ctl"/>
+			<Item Name="_Animation FGV State.ctl" Type="VI" URL="../Private/Local Toolbox/_Animation FGV State.ctl"/>
+			<Item Name="_Animation State.vi" Type="VI" URL="../Private/Local Toolbox/_Animation State.vi"/>
+			<Item Name="_Archive Directories.vi" Type="VI" URL="../Private/Local Toolbox/_Archive Directories.vi"/>
+			<Item Name="_Build Google Campaign URL.vi" Type="VI" URL="../Private/Local Toolbox/_Build Google Campaign URL.vi"/>
+			<Item Name="_Create Folder If DNE.vi" Type="VI" URL="../Private/Local Toolbox/_Create Folder If DNE.vi"/>
+			<Item Name="_Get AppData Path.vi" Type="VI" URL="../Private/Local Toolbox/_Get AppData Path.vi"/>
+			<Item Name="_Get Image Data.vi" Type="VI" URL="../Private/Local Toolbox/_Get Image Data.vi"/>
+			<Item Name="_Get LabVIEW Install Paths.vi" Type="VI" URL="../Private/Local Toolbox/_Get LabVIEW Install Paths.vi"/>
+			<Item Name="_Get Main Path.vi" Type="VI" URL="../Private/Local Toolbox/_Get Main Path.vi"/>
+			<Item Name="_Green Bars.vi" Type="VI" URL="../Private/Local Toolbox/_Green Bars.vi"/>
+			<Item Name="_Installed LabVIEW Version.ctl" Type="VI" URL="../Private/Local Toolbox/_Installed LabVIEW Version.ctl"/>
+			<Item Name="_LabVIEW Version.ctl" Type="VI" URL="../Private/Local Toolbox/_LabVIEW Version.ctl"/>
+			<Item Name="_Load Animation.vi" Type="VI" URL="../Private/Local Toolbox/_Load Animation.vi"/>
+			<Item Name="_Set FP Origin.vi" Type="VI" URL="../Private/Local Toolbox/_Set FP Origin.vi"/>
+			<Item Name="_Start Animation.vi" Type="VI" URL="../Private/Local Toolbox/_Start Animation.vi"/>
+			<Item Name="_Stop Animation.vi" Type="VI" URL="../Private/Local Toolbox/_Stop Animation.vi"/>
+			<Item Name="_Strip Path To Exe.vi" Type="VI" URL="../Private/Local Toolbox/_Strip Path To Exe.vi"/>
+			<Item Name="_Trim Prefix.vi" Type="VI" URL="../Private/Local Toolbox/_Trim Prefix.vi"/>
 		</Item>
 		<Item Name="Source Control Utils" Type="Folder">
-			<Item Name="Backup Installed Source.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Backup Installed Source.vi"/>
-			<Item Name="Check For Hardlink.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Check For Hardlink.vi"/>
-			<Item Name="Create Hard Link.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Create Hard Link.vi"/>
-			<Item Name="Create Hard Links To Source.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Create Hard Links To Source.vi"/>
-			<Item Name="Create Missing Install Folders.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Create Missing Install Folders.vi"/>
-			<Item Name="Delete Install Files Missing From Source.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Delete Install Files Missing From Source.vi"/>
-			<Item Name="Delete Source Files Missing From Install.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Delete Source Files Missing From Install.vi"/>
-			<Item Name="Get All Installed Files.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get All Installed Files.vi"/>
-			<Item Name="Get Component Path.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get Component Path.vi"/>
-			<Item Name="Get Ignore Tokens.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get Ignore Tokens.vi"/>
-			<Item Name="Get Install Path From Source Path.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get Install Path From Source Path.vi"/>
-			<Item Name="Get Installed Projects.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get Installed Projects.vi"/>
-			<Item Name="Get Source Files And Folders.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get Source Files And Folders.vi"/>
-			<Item Name="Get Source Path From Install Path.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get Source Path From Install Path.vi"/>
-			<Item Name="Get Synced Projects.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Get Synced Projects.vi"/>
-			<Item Name="Hard Link To Source.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Hard Link To Source.vi"/>
-			<Item Name="Ignore Files.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Ignore Files.vi"/>
-			<Item Name="Mass Compile Source.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Mass Compile Source.vi"/>
-			<Item Name="Read Config File.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Read Config File.vi"/>
-			<Item Name="Sync Project Load Config.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Sync Project Load Config.vi"/>
-			<Item Name="Sync Project Save Config.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Sync Project Save Config.vi"/>
-			<Item Name="Uninstall Components.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Source Control Utils/Uninstall Components.vi"/>
+			<Item Name="Backup Installed Source.vi" Type="VI" URL="../Private/Source Control Utils/Backup Installed Source.vi"/>
+			<Item Name="Check For Hardlink.vi" Type="VI" URL="../Private/Source Control Utils/Check For Hardlink.vi"/>
+			<Item Name="Create Hard Link.vi" Type="VI" URL="../Private/Source Control Utils/Create Hard Link.vi"/>
+			<Item Name="Create Hard Links To Source.vi" Type="VI" URL="../Private/Source Control Utils/Create Hard Links To Source.vi"/>
+			<Item Name="Create Missing Install Folders.vi" Type="VI" URL="../Private/Source Control Utils/Create Missing Install Folders.vi"/>
+			<Item Name="Delete Install Files Missing From Source.vi" Type="VI" URL="../Private/Source Control Utils/Delete Install Files Missing From Source.vi"/>
+			<Item Name="Delete Source Files Missing From Install.vi" Type="VI" URL="../Private/Source Control Utils/Delete Source Files Missing From Install.vi"/>
+			<Item Name="Get All Installed Files.vi" Type="VI" URL="../Private/Source Control Utils/Get All Installed Files.vi"/>
+			<Item Name="Get Component Path.vi" Type="VI" URL="../Private/Source Control Utils/Get Component Path.vi"/>
+			<Item Name="Get Ignore Tokens.vi" Type="VI" URL="../Private/Source Control Utils/Get Ignore Tokens.vi"/>
+			<Item Name="Get Install Path From Source Path.vi" Type="VI" URL="../Private/Source Control Utils/Get Install Path From Source Path.vi"/>
+			<Item Name="Get Installed Projects.vi" Type="VI" URL="../Private/Source Control Utils/Get Installed Projects.vi"/>
+			<Item Name="Get Source Files And Folders.vi" Type="VI" URL="../Private/Source Control Utils/Get Source Files And Folders.vi"/>
+			<Item Name="Get Source Path From Install Path.vi" Type="VI" URL="../Private/Source Control Utils/Get Source Path From Install Path.vi"/>
+			<Item Name="Get Synced Projects.vi" Type="VI" URL="../Private/Source Control Utils/Get Synced Projects.vi"/>
+			<Item Name="Hard Link To Source.vi" Type="VI" URL="../Private/Source Control Utils/Hard Link To Source.vi"/>
+			<Item Name="Ignore Files.vi" Type="VI" URL="../Private/Source Control Utils/Ignore Files.vi"/>
+			<Item Name="Mass Compile Source.vi" Type="VI" URL="../Private/Source Control Utils/Mass Compile Source.vi"/>
+			<Item Name="Read Config File.vi" Type="VI" URL="../Private/Source Control Utils/Read Config File.vi"/>
+			<Item Name="Sync Project Load Config.vi" Type="VI" URL="../Private/Source Control Utils/Sync Project Load Config.vi"/>
+			<Item Name="Sync Project Save Config.vi" Type="VI" URL="../Private/Source Control Utils/Sync Project Save Config.vi"/>
+			<Item Name="Uninstall Components.vi" Type="VI" URL="../Private/Source Control Utils/Uninstall Components.vi"/>
 		</Item>
 		<Item Name="Type Defs" Type="Folder">
-			<Item Name="Configuration.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Type Defs/Configuration.ctl"/>
-			<Item Name="Install Configuration.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Type Defs/Install Configuration.ctl"/>
-			<Item Name="Install State.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Type Defs/Install State.ctl"/>
-			<Item Name="Installed Project.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Type Defs/Installed Project.ctl"/>
-			<Item Name="Sync Project Config State.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Type Defs/Sync Project Config State.ctl"/>
-			<Item Name="Sync Source Configuration.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Type Defs/Sync Source Configuration.ctl"/>
-			<Item Name="Sync Source State.ctl" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/vi.lib/LabVIEW Hacker/Build Tools/Private/Type Defs/Sync Source State.ctl"/>
+			<Item Name="Configuration.ctl" Type="VI" URL="../Private/Type Defs/Configuration.ctl"/>
+			<Item Name="Install Configuration.ctl" Type="VI" URL="../Private/Type Defs/Install Configuration.ctl"/>
+			<Item Name="Install State.ctl" Type="VI" URL="../Private/Type Defs/Install State.ctl"/>
+			<Item Name="Installed Project.ctl" Type="VI" URL="../Private/Type Defs/Installed Project.ctl"/>
+			<Item Name="Sync Project Config State.ctl" Type="VI" URL="../Private/Type Defs/Sync Project Config State.ctl"/>
+			<Item Name="Sync Source Configuration.ctl" Type="VI" URL="../Private/Type Defs/Sync Source Configuration.ctl"/>
+			<Item Name="Sync Source State.ctl" Type="VI" URL="../Private/Type Defs/Sync Source State.ctl"/>
 		</Item>
 	</Item>
 	<Item Name="Project" Type="Folder">
-		<Item Name="Install Project.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/project/LabVIEW Hacker/Build Tools/Install Project.vi"/>
-		<Item Name="Sync Project.vi" Type="VI" URL="../../../../../../../github/labviewhacker/LVH-Build-Tools/LabVIEW/project/LabVIEW Hacker/Build Tools/Sync Project.vi"/>
+		<Item Name="Install Project.vi" Type="VI" URL="../../../../project/LabVIEW Hacker/Build Tools/Install Project.vi"/>
+		<Item Name="Sync Project.vi" Type="VI" URL="../../../../project/LabVIEW Hacker/Build Tools/Sync Project.vi"/>
 	</Item>
 </Library>

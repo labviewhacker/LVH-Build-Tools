@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="LVH-Build-Tools.lvlib" Type="Library" URL="/&lt;vilib&gt;/LabVIEW Hacker/Build Tools/LVH-Build-Tools.lvlib"/>
+		<Item Name="LVH-Build-Tools.lvlib" Type="Library" URL="../LVH-Build-Tools.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
